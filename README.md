@@ -43,7 +43,7 @@ I care about developing reliable and maintainable software. I aim to write code 
 
 **MTR Informatics, Training and Consultancy Inc., Turkey | May 2017 - Current**
 
-*Developed an SaaS that has 100k US net profit in Turkish Marker. Captured over 70% market share in Turkey, expanded business networks globally, and generated higher revenue through delivering company’s robust digital solutions.*
+*Developed an SaaS that has 100k US net profit in Turkish Market. Captured over 70% market share in Turkey, expanded business networks globally, and generated higher revenue through delivering company’s robust digital solutions.*
 
 - Responsible for the engineering efforts across multiple project teams.
 - Functioning as a site manager to manage operations of the office.
