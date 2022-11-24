@@ -91,13 +91,12 @@ Dokuz Eylul University, Izmir Turkey - BSc. Nautical Science (Engineering) (2005
 
 ## COURSES & BOOTCAMPS
 
-- Ultimate Go Services,Ardan Labs (In progress)
+- Ultimate Go Services,Ardan Labs (2022)
 - Ultimate Go,Ardan Labs (2022)
 - Techdegree, Full Stack JavaScript-Treehouse (2021)
 - Microservices with Domain Storytelling, Kodcu(2020)
-- Techdegree, Python Web Developer-Treehouse (2019
-
 - CCPMP02-Project	Management with PMI® Standards and PMP® Certification, IZGE(2020)
 - Spring Security OAuth, Baeldung(2020)
 - Nanodegree, Java Web Developer-Udacity (2020)
+- Techdegree, Python Web Developer-Treehouse (2019)
 - Microsoft Certified Solution Developer, Bilgeadam Academy, Istanbul (2013)
