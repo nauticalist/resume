@@ -10,7 +10,7 @@ iaksoy@vibylabs.com
 
 *Cloud-native engineering leader with a focus on reliability, scalability, and security for the modern web.*
 
-## **Engineering Manager Profile**
+## **CTO Profile**
 
 I am an engineering manager passionate about building features across the full stack. I have found a particular interest in working at startups and growing their offerings with maintainability and scale in mind while balancing a user-oriented mindset.
 
@@ -22,7 +22,6 @@ I care about developing reliable and maintainable software. I aim to write code 
 
 ### Technologies
 
-- **Modern Web**: React.js, Mui, Gatsby.js
 - **Core Technologies**:  **Golang***, Spring Boot, Java, Axon framework, Apache Kafka, Node.js, Python, PHP, Linux, Postgresql, MongoDB
 - **Cloud Services**: Linode, Digital Ocean, AWS, MS Azure
 - **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
@@ -32,14 +31,14 @@ I care about developing reliable and maintainable software. I aim to write code 
 - Hiring, team building, organization, and budget planning
 - Software development process definition, execution, and optimization
 - Engineering management, mentorship, and career growth
-- Company strategy and product vision
+- Company strategy and product vision and product management
 - Agile software development with scrum best practices
 
 * This year, I have Golang and blockchain development with golang in my learning journey. 
 
 ## EXPERIENCE
 
-### CTO, Engineering Manager
+### CTO
 
 **MTR Informatics, Training and Consultancy Inc., Turkey | May 2017 - Current**
 
