@@ -44,12 +44,18 @@ I care about developing reliable and maintainable software. I aim to write code 
 
 *Developed an SaaS that has 100k US net profit in Turkish Market. Captured over 70% market share in Turkey, expanded business networks globally, and generated higher revenue through delivering company’s robust digital solutions.*
 
-- Responsible for the engineering efforts across multiple project teams.
+- Responsible for the engineering efforts across multiple project teams including WEB, computer vision and extended reality.
 - Functioning as a site manager to manage operations of the office.
 - Playing technical points when it comes to integrations and partnerships.
 - Hire and manage developers at the Izmir and Istanbul locations.
 - Influence development process and best practices.
 - Motivate and support team productivity, efficiency, and happiness.
+
+### Advisory Board Member
+
+**AIXR - The Academy of International Extended Reality, UK | Dec 2022 - Current**
+
+*Enterprise Training and Development Advisor*
 
 ### Senior Software Engineer
 
