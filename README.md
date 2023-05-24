@@ -31,7 +31,7 @@ I care about developing reliable and maintainable software. I aim to write code 
 - Hiring, team building, organization, and budget planning
 - Software development process definition, execution, and optimization
 - Engineering management, mentorship, and career growth
-- Company strategy and product vision and product management
+- Company strategy and product vision and management
 - Agile software development with scrum best practices
 
 * This year, I have Golang and blockchain development with golang in my learning journey. 
