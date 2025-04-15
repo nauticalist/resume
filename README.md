@@ -5,7 +5,7 @@ Izmir, Turkey |+905334302036
 Year of Birth: 1986 | Turkish | Married
 
 [https://www.linkedin.com/in/ismailaksoy/](https://www.linkedin.com/in/ismailaksoy/)
-
+[https://www.vibylabs.com](https://www.vibylabs.com)
 iaksoy@vibylabs.com 
 
 *Cloud-native engineering leader with a focus on reliability, scalability, and security for the modern web.*
@@ -38,7 +38,7 @@ I care about developing reliable and maintainable software. I aim to write code 
 
 ## EXPERIENCE
 
-### CTO
+### Chief Product and Technology Officer
 
 **MTR Informatics, Training and Consultancy Inc., Turkey | May 2017 - Current**
 
