@@ -5,14 +5,16 @@ Izmir, Turkey |+905334302036
 Year of Birth: 1986 | Turkish | Married
 
 [https://www.linkedin.com/in/ismailaksoy/](https://www.linkedin.com/in/ismailaksoy/)
+
 [https://www.vibylabs.com](https://www.vibylabs.com)
+
 iaksoy@vibylabs.com 
 
 *Cloud-native engineering leader with a focus on reliability, scalability, and security for the modern web.*
 
-## **CTO Profile**
+## **Chief Product and Technology Officer**
 
-I am an engineering manager passionate about building features across the full stack. I have found a particular interest in working at startups and growing their offerings with maintainability and scale in mind while balancing a user-oriented mindset.
+I am an engineer/manager passionate about building features across the full stack. I have found a particular interest in working at startups and growing their offerings with maintainability and scale in mind while balancing a user-oriented mindset.
 
 I began my career working as a deck officer in 2009. In 2012 I joined a ship management company as a training and development professional, and this stage of my career helped me focus on digitization. In 2014 I took a startup job and had been employed full-time ever since. I have individual contributor experience as well as considerable team-lead experience. As someone self-taught, I benefited from working closely with other engineers to learn and grow, and as I continue to do that, I have also developed a special passion for helping others grow.
 
@@ -22,7 +24,7 @@ I care about developing reliable and maintainable software. I aim to write code 
 
 ### Technologies
 
-- **Core Technologies**:  **Golang***, Spring Boot, Java, Axon framework, Apache Kafka, Node.js, Python, PHP, Linux, Postgresql, MongoDB
+- **Core Technologies**:  Golang, Spring Boot, Java, Axon framework, Apache Kafka, Node.js, Python, C++, PHP, Linux, Postgresql, MongoDB
 - **Cloud Services**: Linode, Digital Ocean, AWS, MS Azure
 - **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
 
@@ -33,8 +35,6 @@ I care about developing reliable and maintainable software. I aim to write code 
 - Engineering management, mentorship, and career growth
 - Company strategy and product vision and management
 - Agile software development with scrum best practices
-
-* This year, I have Golang and blockchain development with golang in my learning journey. 
 
 ## EXPERIENCE
 
@@ -96,8 +96,8 @@ Dokuz Eylul University, Izmir Turkey - BSc. Nautical Science (Engineering) (2005
 
 ## COURSES & BOOTCAMPS
 
-- Ultimate Go Services,Ardan Labs (2022)
-- Ultimate Go,Ardan Labs (2022)
+- Rust Courses, Ardan Labs
+- Goland and Kubernetes Courses, Ardan Labs
 - Techdegree, Full Stack JavaScript-Treehouse (2021)
 - Microservices with Domain Storytelling, Kodcu(2020)
 - CCPMP02-Project	Management with PMI® Standards and PMP® Certification, IZGE(2020)
